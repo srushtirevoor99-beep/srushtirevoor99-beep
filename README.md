@@ -58,12 +58,7 @@ I'm an **Information Science Engineering student** who enjoys turning ideas into
 
 <td width="35%" align="center" valign="middle">
 
-<img src="https://github-readme-typing-svg.demolab.com?font=Pacifico&size=28&duration=2500&pause=1000&color=EF93C4&center=true&vCenter=true&width=280&height=100&lines=Code+%E2%80%A2+Create+%E2%80%A2+Learn;Dream+%E2%80%A2+Build+%E2%80%A2+Grow;Stay+Curious+%F0%9F%8C%B8" alt="Creative typing">
-
 <br>
-
-<img src="https://github.com/user-attachments/assets/placeholder" width="240" alt="Coding illustration">
-
 </td>
 </tr>
 </table>
