@@ -53,13 +53,6 @@ I'm an **Information Science Engineering student** who enjoys turning ideas into
 <br>
 
 > *"Code is not just about solving problems — it's about creating possibilities."* ✨
-
-</td>
-
-<td width="35%" align="center" valign="middle">
-
-<br>
-</td>
 </tr>
 </table>
 
