@@ -14,13 +14,30 @@
   ☁️ Building, Automating & Learning One Project at a Time
 </p>
 
-<p>
-  <a href="https://github.com/srushtirevoor99-beep">GitHub</a> •
-  <a href="https://www.linkedin.com/in/srushti-revoor-881170310?utm_source=share_via&utm_content=profile&utm_medium=member_android">LinkedIn</a> •
-  <a href="https://www.instagram.com/srushti_revoor18?stkn=MTRnZ3R6YXF6Nm9qbw==">Instagram</a> •
-  <a href="https://www.instagram.com/srushti_revoor18?stkn=MTRnZ3R6YXF6Nm9qbw==">Twitter</a> •
-  <a href="mailto:srushtirevoor99@gmail.com">Email</a>
+<p align="center">
+
+<a href="https://github.com/srushtirevoor99-beep">
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/srushti-revoor-881170310?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/srushti_revoor18?stkn=MTRnZ3R6YXF6Nm9qbw==">
+  <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://x.com/SrushtiR18">
+  <img src="https://img.shields.io/badge/TWITTER-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+<a href="mailto:srushtirevoor99@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 </p>
+
 
 </div>
 
