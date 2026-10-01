@@ -2,7 +2,17 @@
 
 # Hi, I'm Srushti 👋
 
-### ☁️ Aspiring Cloud Engineer | Building, Automating & Learning One Project at a Time
+<p align="center">
+
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Aspiring+Cloud+Engineer;Cloud+Engineering+Enthusiast;Building+%26+Automating+with+AWS;Learning+Cloud+%26+DevOps" alt="Typing SVG" />
+</a>
+
+</p>
+
+<p align="center">
+  ☁️ Building, Automating & Learning One Project at a Time
+</p>
 
 <p>
   <a href="https://github.com/srushtirevoor99-beep">GitHub</a> •
@@ -123,16 +133,6 @@ The project includes:
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srushtirevoor99-beep&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![GitHub Contribution Snake](https://raw.githubusercontent.com/srushtirevoor99-beep/srushtirevoor99-beep/output/github-contribution-grid-snake.svg)
 
 </div>
 
