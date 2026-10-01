@@ -1,126 +1,128 @@
 <div align="center">
 
-<!-- Responsive Light/Dark Banner -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:EF93C4,100:F8BBD0&height=220&section=header&text=Srushti%20Revoor&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F8BBD0,50:EF93C4,100:FF69B4&height=220&section=header&text=Srushti%20Revoor&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:EF93C4,100:F8BBD0&height=220&section=header&text=Srushti%20Revoor&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Srushti Revoor banner">
-</picture>
+# Hi, I'm Srushti 👋
 
-<br>
+### ☁️ Aspiring Cloud Engineer | Building, Automating & Learning One Project at a Time
 
-# Hey there, I'm Srushti Revoor 👋
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=EF93C4&center=true&vCenter=true&multiline=true&width=700&height=90&lines=Information+Science+Engineering+Student;Software+Developer+%7C+Tech+Explorer;Building+Ideas+%E2%86%92+Code+%E2%86%92+Impact+%E2%9C%A8" alt="Typing SVG">
-</a>
-
-<br>
-
-<a href="https://github.com/Srushtirevoor99-beep">
-  <img src="https://img.shields.io/github/followers/Srushtirevoor99-beep?label=Followers&style=for-the-badge&color=EF93C4&labelColor=161616" alt="GitHub Followers">
-</a>
-<a href="https://github.com/Srushtirevoor99-beep?tab=repositories">
-  <img src="https://img.shields.io/github/stars/Srushtirevoor99-beep?label=Stars&style=for-the-badge&color=F8BBD0&labelColor=161616" alt="GitHub Stars">
-</a>
-<img src="https://komarev.com/ghpvc/?username=Srushtirevoor99-beep&style=for-the-badge&color=FF69B4&label=PROFILE+VIEWS" alt="Profile Views">
-
-<br><br>
+<p>
+  <a href="https://github.com/srushtirevoor99-beep">GitHub</a> •
+  <a href="https://www.linkedin.com/in/srushti-revoor-881170310?utm_source=share_via&utm_content=profile&utm_medium=member_android">LinkedIn</a> •
+  <a href="https://www.instagram.com/srushti_revoor18?stkn=MTRnZ3R6YXF6Nm9qbw==">Instagram</a> •
+  <a href="https://www.instagram.com/srushti_revoor18?stkn=MTRnZ3R6YXF6Nm9qbw==">Twitter</a> •
+  <a href="mailto:srushtirevoor99@gmail.com">Email</a>
+</p>
 
 </div>
 
 ---
 
-## 🌸 About Me
+## 👩‍💻 About Me
 
-<table>
-<tr>
-<td width="65%" valign="middle">
+ Information Science Engineering student exploring **Software & Cloud Engineering**.
+ Currently focused on **Data Structures & Algorithms with Java**, solving problems and improving my problem-solving skills.
 
-### Hi, I'm Srushti! 💗
+ Alongside DSA, I'm learning **Linux, Bash, Git, AWS, Networking, and Cloud Security** through hands-on projects.
 
-I'm an **Information Science Engineering student** who enjoys turning ideas into practical software and exploring new technologies.
-
-- 🎓 Pursuing **Information Science Engineering**
-- 💻 Interested in **Software Development & Web Technologies**
-- 🧠 Currently strengthening my **DSA & problem-solving skills**
-- 🌐 Exploring **Web Development, IoT & Emerging Technologies**
-- 🚀 Love building projects that turn concepts into working solutions
-- 🔍 Always curious about how technology works under the hood
-- 🌱 Learning something new every day
-- 💡 Believe in **learning → building → improving**
-
-<br>
-
-> *"Code is not just about solving problems — it's about creating possibilities."* ✨
-</tr>
-</table>
+🛠️ Building projects that help me understand **software development, automation, and cloud infrastructure**.
+ Always learning, building, and improving — one problem and one project at a time. 
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
+
+###  Languages & Scripting
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Operating Systems & Linux
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![WSL](https://img.shields.io/badge/WSL-0D1117?style=for-the-badge&logo=linux&logoColor=white)
+
+### Cloud & Infrastructure
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![IAM](https://img.shields.io/badge/AWS_IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+
+### Version Control & CI/CD
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+### Development Tools
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 📌 Featured Project
+
+### ☁️ CloudOps Toolkit
+
+A hands-on Cloud Engineering project focused on **Linux, Bash automation, Git, CI/CD, and AWS**.
+
+The project includes:
+
+- 🐧 Linux system administration
+- 🐚 Bash automation scripts
+- 🌿 Git branching and collaboration workflows
+- ⚙️ GitHub Actions & ShellCheck
+- ☁️ AWS EC2 & S3
+- 🔐 AWS IAM and least-privilege access
+- 🔄 Practical Git workflows including rebase and cherry-pick
+
+🚧 Currently expanding the project with **AWS infrastructure and cloud automation**.
+
+---
+
+## 🧠 Competitive Programming
 
 <div align="center">
 
-### 💻 Languages
-
-<a href="https://www.java.com/">
-  <img src="https://skillicons.dev/icons?i=java" height="55" alt="Java">
-</a>
-<a href="https://www.python.org/">
-  <img src="https://skillicons.dev/icons?i=python" height="55" alt="Python">
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-  <img src="https://skillicons.dev/icons?i=javascript" height="55" alt="JavaScript">
-</a>
-<a href="https://www.w3.org/html/">
-  <img src="https://skillicons.dev/icons?i=html" height="55" alt="HTML">
-</a>
-<a href="https://www.w3.org/Style/CSS/">
-  <img src="https://skillicons.dev/icons?i=css" height="55" alt="CSS">
+<a href="https://leetcode.com/u/srushti_revoor05">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
 </a>
 
-<br><br>
+<a href="YOUR_GFG_URL">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white">
+</a>
 
-### 🌐 Development & Tools
+<a href="YOUR_CODEFORCES_URL">
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white">
+</a>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,nodejs,mysql,arduino,linux,figma&perline=8" alt="Tech Stack">
-
-<br><br>
-
-### 🔧 Currently Exploring
-
-<img src="https://skillicons.dev/icons?i=react,express,mongodb,docker&perline=4" alt="Currently Exploring">
+<a href="YOUR_HACKERRANK_URL">
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black">
+</a>
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Srushtirevoor99-beep&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&title_color=EF93C4&icon_color=FF69B4&text_color=808080&bg_color=00000000" height="180" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srushtirevoor99-beep&layout=compact&hide_border=true&langs_count=8&title_color=EF93C4&text_color=808080&bg_color=00000000" height="180" alt="Top Languages">
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Srushtirevoor99-beep&hide_border=true&background=00000000&ring=FF69B4&fire=EF93C4&currStreakLabel=EF93C4&sideLabels=EF93C4&currStreakNum=FF69B4&sideNums=FF69B4&dates=808080" width="70%" alt="GitHub Streak">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## 💻 Most Used Languages
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Srushtirevoor99-beep&bg_color=00000000&color=EF93C4&line=FF69B4&point=F8BBD0&area=true&hide_border=true&custom_title=Srushti's%20Contribution%20Graph" width="95%" alt="Contribution Activity Graph">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -128,84 +130,52 @@ I'm an **Information Science Engineering student** who enjoys turning ideas into
 
 ## 🐍 Contribution Snake
 
-<!--
-GitHub Action:
-Create .github/workflows/snake.yml with the following:
+<div align="center">
 
-name: Generate Snake
+![GitHub Contribution Snake](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg)
 
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Srushtirevoor99-beep
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=FF69B4&color_dots=F8BBD0,EF93C4,FF69B4
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          BUILD_DIR: dist
--->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Srushtirevoor99-beep/Srushtirevoor99-beep/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Srushtirevoor99-beep/Srushtirevoor99-beep/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/Srushtirevoor99-beep/Srushtirevoor99-beep/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Snake">
-</picture>
+</div>
 
 ---
 
-## 🌷 Connect With Me
+## 🎯 Current Learning Goals
 
-<div align="center">
+- 💻 Strengthen Data Structures & Algorithms with Java
+- ☕ Improve Java programming and problem-solving
+- 🐧 Strengthen Linux administration skills
+- 🐚 Improve Bash scripting and automation
+- 🌐 Strengthen networking fundamentals
+- ☁️ Build strong AWS fundamentals
+- 🔐 Learn cloud security fundamentals
+- 🏗️ Build real-world cloud infrastructure
+- ⚙️ Learn CI/CD pipelines
+- 🐳 Explore Docker
+- 🏗️ Learn Infrastructure as Code with Terraform
+- 🚀 Prepare for Cloud Engineering internships
 
-<a href="https://www.linkedin.com/in/srushti-revoor-881170310?utm_source=share_via&utm_content=profile&utm_medium=member_android">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-EF93C4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
+---
 
-<a href="https://x.com/SrushtiR18">
-  <img src="https://img.shields.io/badge/X-Follow-F8BBD0?style=for-the-badge&logo=x&logoColor=white" alt="X">
-</a>
+## 📈 My Learning Journey
 
-<a href="https://www.instagram.com/srushti_revoor18?igsi=MTRnZ3R6YXF6Nm9qbw==">
-  <img src="https://img.shields.io/badge/Instagram-Follow-FF69B4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-</a>
-
-
-
-
-
-<a href="mailto:srushtirevoor99@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-F8BBD0?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-### 💗 Let's Build Something Amazing Together
-
-*Always learning. Always building. Always curious.* 🌸
-
-</div>
-
-<br>
-
-<!-- Premium Waving Footer -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:EF93C4,100:F8BBD0&height=150&section=footer&animation=twinkling">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F8BBD0,50:EF93C4,100:FF69B4&height=150&section=footer&animation=twinkling">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:EF93C4,100:F8BBD0&height=150&section=footer&animation=twinkling" width="100%" alt="Waving footer">
-</picture>
+```text
+C & Java
+   ↓
+Data Structures & Algorithms
+   ↓
+Linux & Bash
+   ↓
+Git & GitHub
+   ↓
+Networking
+   ↓
+AWS Fundamentals
+   ↓
+Cloud Security
+   ↓
+Terraform
+   ↓
+Docker
+   ↓
+CI/CD
+   ↓
+Cloud Engineering
