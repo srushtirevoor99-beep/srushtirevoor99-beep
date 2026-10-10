@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  ☁️ Building, Automating & Learning One Project at a Time
+   Building, Automating & Learning One Project at a Time
 </p>
 
 <p align="center">
