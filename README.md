@@ -43,7 +43,7 @@
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
  Information Science Engineering student exploring **Software & Cloud Engineering**.
  Currently focused on **Data Structures & Algorithms with Java**, solving problems and improving my problem-solving skills.
@@ -89,27 +89,27 @@
 
 ---
 
-## 📌 Featured Project
+## Featured Project
 
-### ☁️ CloudOps Toolkit
+### CloudOps Toolkit
 
 A hands-on Cloud Engineering project focused on **Linux, Bash automation, Git, CI/CD, and AWS**.
 
 The project includes:
 
-- 🐧 Linux system administration
-- 🐚 Bash automation scripts
-- 🌿 Git branching and collaboration workflows
-- ⚙️ GitHub Actions & ShellCheck
-- ☁️ AWS EC2 & S3
-- 🔐 AWS IAM and least-privilege access
-- 🔄 Practical Git workflows including rebase and cherry-pick
+-  Linux system administration
+-  Bash automation scripts
+-  Git branching and collaboration workflows
+-  GitHub Actions & ShellCheck
+-  AWS EC2 & S3
+-  AWS IAM and least-privilege access
+-  Practical Git workflows including rebase and cherry-pick
 
-🚧 Currently expanding the project with **AWS infrastructure and cloud automation**.
+ Currently expanding the project with **AWS infrastructure and cloud automation**.
 
 ---
 
-## 🧠 Competitive Programming
+## Competitive Programming
 
 <div align="center">
 
@@ -133,7 +133,7 @@ The project includes:
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -145,7 +145,7 @@ The project includes:
 
 ---
 
-## 💻 Most Used Languages
+## Most Used Languages
 
 <div align="center">
 
@@ -155,24 +155,24 @@ The project includes:
 
 ---
 
-## 🎯 Current Learning Goals
+##  Current Learning Goals
 
-- 💻 Strengthen Data Structures & Algorithms with Java
-- ☕ Improve Java programming and problem-solving
-- 🐧 Strengthen Linux administration skills
-- 🐚 Improve Bash scripting and automation
-- 🌐 Strengthen networking fundamentals
-- ☁️ Build strong AWS fundamentals
-- 🔐 Learn cloud security fundamentals
-- 🏗️ Build real-world cloud infrastructure
-- ⚙️ Learn CI/CD pipelines
-- 🐳 Explore Docker
-- 🏗️ Learn Infrastructure as Code with Terraform
-- 🚀 Prepare for Cloud Engineering internships
+-  Strengthen Data Structures & Algorithms with Java
+-  Improve Java programming and problem-solving
+-  Strengthen Linux administration skills
+-  Improve Bash scripting and automation
+-  Strengthen networking fundamentals
+-  Build strong AWS fundamentals
+-  Learn cloud security fundamentals
+-  Build real-world cloud infrastructure
+-  Learn CI/CD pipelines
+-  Explore Docker
+-  Learn Infrastructure as Code with Terraform
+-  Prepare for Cloud Engineering internships
 
 ---
 
-## 📈 My Learning Journey
+## My Learning Journey
 
 ```text
 C & Java
