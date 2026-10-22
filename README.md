@@ -50,7 +50,7 @@
 
  Alongside DSA, I'm learning **Linux, Bash, Git, AWS, Networking, and Cloud Security** through hands-on projects.
 
-🛠️ Building projects that help me understand **software development, automation, and cloud infrastructure**.
+ Building projects that help me understand **software development, automation, and cloud infrastructure**.
  Always learning, building, and improving — one problem and one project at a time. 
 
 ---
