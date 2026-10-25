@@ -88,24 +88,27 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
+## Featured Projects
 
-## Featured Project
+### [CloudOps Toolkit](https://github.com/srushtirevoor99-beep/cloudops-toolkit)
 
-### CloudOps Toolkit
+Bash tooling for Linux administration, with automated S3 backups, verified restores, and a keyless CI/CD pipeline to EC2.
 
-A hands-on Cloud Engineering project focused on **Linux, Bash automation, Git, CI/CD, and AWS**.
+- Backup and restore scripts with retention, encrypted S3 upload, and SNS failure alerts
+- Test suite for every script (bats), plus ShellCheck, run on every push
+- Deploys to EC2 through SSM, authenticated with GitHub OIDC and no stored AWS keys
 
-The project includes:
+**Stack:** Bash, Linux, AWS (EC2, S3, IAM, SSM), GitHub Actions
 
--  Linux system administration
--  Bash automation scripts
--  Git branching and collaboration workflows
--  GitHub Actions & ShellCheck
--  AWS EC2 & S3
--  AWS IAM and least-privilege access
--  Practical Git workflows including rebase and cherry-pick
+### [AWS Terraform Infrastructure](https://github.com/srushtirevoor99-beep/aws-terraform-infra)
 
- Currently expanding the project with **AWS infrastructure and cloud automation**.
+A load-balanced, auto-scaling web tier on AWS, built with Terraform modules and checked by CI.
+
+- VPC, ALB and Auto Scaling Group across two availability zones, with remote state in S3
+- CI runs fmt, validate, TFLint, module tests, and Checkov before every merge
+- Gated apply: a reviewer must approve the `production` environment, using OIDC with separate plan and apply roles
+
+**Stack:** Terraform, AWS (VPC, ALB, EC2 Auto Scaling, CloudWatch), GitHub Actions
 
 ---
 
@@ -115,18 +118,6 @@ The project includes:
 
 <a href="https://leetcode.com/u/srushti_revoor05">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
-</a>
-
-<a href="YOUR_GFG_URL">
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white">
-</a>
-
-<a href="YOUR_CODEFORCES_URL">
-<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white">
-</a>
-
-<a href="YOUR_HACKERRANK_URL">
-<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black">
 </a>
 
 </div>
