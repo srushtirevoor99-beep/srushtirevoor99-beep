@@ -1,30 +1,41 @@
 <div align="center">
 
-# Hi, I'm Srushti
+# Hi, I'm Srushti 👋
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Aspiring+Cloud+Engineer;Cloud+Engineering+Enthusiast;Building+%26+Automating+with+AWS;Learning+Cloud+%26+DevOps" alt="Typing SVG" />
-  </a>
+
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Aspiring+Cloud+Engineer;Cloud+Engineering+Enthusiast;Building+%26+Automating+with+AWS;Learning+Cloud+%26+DevOps" alt="Typing SVG" />
+</a>
+
 </p>
 
 <p align="center">
-  Building, automating, and learning one project at a time
+   Building, Automating & Learning One Project at a Time
 </p>
 
 <p align="center">
-  <a href="https://github.com/srushtirevoor99-beep">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/srushti-revoor-881170310">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/SrushtiR18">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="mailto:srushtirevoor99@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+
+<a href="https://github.com/srushtirevoor99-beep">
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/srushti-revoor-881170310">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/srushti_revoor18">
+  <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://x.com/SrushtiR18">
+  <img src="https://img.shields.io/badge/TWITTER-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+<a href="mailto:srushtirevoor99@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 </p>
 
 </div>
@@ -33,11 +44,13 @@
 
 ## About Me
 
-Information Science & Engineering student focused on **software and cloud engineering**, and seeking a **cloud engineering internship** in my 6th semester.
+Information Science Engineering student exploring **Software & Cloud Engineering**, seeking a **Cloud Engineering internship** in my 6th semester.
+Currently focused on **Data Structures & Algorithms with Java**, solving problems and improving my problem-solving skills.
 
-- Practicing **Data Structures & Algorithms in Java** to strengthen problem-solving
-- Learning **Linux, Bash, Git, AWS, Networking, and Cloud Security** through hands-on projects
-- Building projects in **automation, CI/CD, and cloud infrastructure**
+Alongside DSA, I'm learning **Linux, Bash, Git, AWS, Networking, and Cloud Security** through hands-on projects.
+
+Building projects that help me understand **software development, automation, and cloud infrastructure**.
+Always learning, building, and improving, one problem and one project at a time.
 
 ---
 
@@ -66,7 +79,7 @@ Information Science & Engineering student focused on **software and cloud engine
 
 
 
-### Operating Systems
+### Operating Systems & Linux
 
 
 
@@ -151,7 +164,7 @@ Bash tooling for Linux administration, with automated S3 backups, verified resto
 
 A load-balanced, auto-scaling web tier on AWS, built with Terraform modules and checked by CI.
 
-- VPC, ALB, and Auto Scaling Group across two availability zones, with remote state in S3
+- VPC, ALB and Auto Scaling Group across two availability zones, with remote state in S3
 - CI runs fmt, validate, TFLint, module tests, and Checkov before every merge
 - Gated apply: a reviewer must approve the `production` environment, using OIDC with separate plan and apply roles
 
@@ -164,7 +177,7 @@ A load-balanced, auto-scaling web tier on AWS, built with Terraform modules and 
 <div align="center">
 
 <a href="https://leetcode.com/u/srushti_revoor05">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
 </a>
 
 </div>
@@ -195,17 +208,22 @@ A load-balanced, auto-scaling web tier on AWS, built with Terraform modules and 
 
 ## Current Learning Goals
 
-- Data Structures & Algorithms and problem-solving in Java
-- Linux administration, Bash scripting, and automation
-- Networking and cloud security fundamentals
-- AWS fundamentals and real-world cloud infrastructure
-- CI/CD pipelines and Infrastructure as Code with Terraform
-- Docker and containerization
-- Preparing for cloud engineering internships
+- Strengthen Data Structures & Algorithms with Java
+- Improve Java programming and problem-solving
+- Strengthen Linux administration skills
+- Improve Bash scripting and automation
+- Strengthen networking fundamentals
+- Build strong AWS fundamentals
+- Learn cloud security fundamentals
+- Build real-world cloud infrastructure
+- Learn CI/CD pipelines
+- Explore Docker
+- Learn Infrastructure as Code with Terraform
+- Prepare for Cloud Engineering internships
 
 ---
 
-## Learning Journey
+## My Learning Journey
 
 ```text
 C & Java
